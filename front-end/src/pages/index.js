@@ -7,6 +7,8 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
+    <h3 style={{marginBottom:'20px'}}>This site is hosted on &nbsp; 
+      <a target="_blank" href='https://expui.netlify.com/'>Netlify here</a></h3>
     <details style={{marginBottom:'20px'}}> 
             <summary style={{marginBottom:'8px'}}>Intro</summary> 
           <i>Please go through the  <Link
