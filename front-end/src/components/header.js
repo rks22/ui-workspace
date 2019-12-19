@@ -29,15 +29,15 @@ const Header = ({ siteTitle }) => (
         </Link>
       </h1>
       <section style={{ float:'right' }}>
-         <Link
-          to="/usefulLinks"
-          style={{
-            color: `white`,
-            textDecoration: `none`,
-          }}
-        >
-          useful links
-        </Link>
+          <Link
+            to="/usefulLinks"
+            style={{
+              color: `white`,
+              textDecoration: `none`,
+            }}
+          >
+            useful links
+          </Link>
         </section>
     </div>
   </header>
