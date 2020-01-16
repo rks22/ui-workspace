@@ -11,6 +11,7 @@ exports.components = {
   "component---src-pages-fela-js": hot(preferDefault(require("C:\\Users\\T13468\\rkswork\\uiplay\\ui-workspace\\front-end\\src\\pages\\fela.js"))),
   "component---src-pages-index-js": hot(preferDefault(require("C:\\Users\\T13468\\rkswork\\uiplay\\ui-workspace\\front-end\\src\\pages\\index.js"))),
   "component---src-pages-page-2-js": hot(preferDefault(require("C:\\Users\\T13468\\rkswork\\uiplay\\ui-workspace\\front-end\\src\\pages\\page-2.js"))),
+  "component---src-pages-reactspring-js": hot(preferDefault(require("C:\\Users\\T13468\\rkswork\\uiplay\\ui-workspace\\front-end\\src\\pages\\reactspring.js"))),
   "component---src-pages-styledcomponents-js": hot(preferDefault(require("C:\\Users\\T13468\\rkswork\\uiplay\\ui-workspace\\front-end\\src\\pages\\styledcomponents.js"))),
   "component---src-pages-useful-links-js": hot(preferDefault(require("C:\\Users\\T13468\\rkswork\\uiplay\\ui-workspace\\front-end\\src\\pages\\usefulLinks.js")))
 }

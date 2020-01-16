@@ -1,1 +1,1 @@
-export { Box } from 'rebass';
+export { Box,Flex } from 'rebass';

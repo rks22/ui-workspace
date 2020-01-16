@@ -61,7 +61,7 @@ const IndexPage = () => (
         <Link to="/styledcomponents/">Styled-components</Link> 
       </li> 
       <li>
-        <Link to="/">Anything</Link> 
+        <Link to="/reactspring/">reactspring</Link> 
       </li> 
       </ul> 
   </Layout>
